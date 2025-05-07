@@ -1,0 +1,1 @@
+Welcome, Kirsten. To free the the Travelling Symphony and end the reign of the religious zealot Prophet, you must find the title of very special book. Our hunt begins by reading the contents of index.qmd.
