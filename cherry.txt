@@ -1,0 +1,1 @@
+Are you lost Kirsten? The path out of the cherry orchard can by found by creating a new branch and 'cherry-pick' odd-numbered commits from the branch 'cherry-tree' and look at the 'log.txt' to reveal the next clue.
